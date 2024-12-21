@@ -1,4 +1,12 @@
 # main.py
+"""
+Background Remover Pro 🚀
+Author: Aleksei Aleinikov
+License: Universal Permissive License (UPL), Version 1.0
+This project is open-sourced under the UPL License. You are free to use, modify, and distribute this software
+for both commercial and non-commercial purposes. See the LICENSE file for more details.
+"""
+
 import argparse
 from rembg import remove
 from PIL import Image
