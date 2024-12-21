@@ -40,7 +40,7 @@ After (Output Image):
    ```
 4. Downloading Pre-trained Model (If Missing): When you run the script for the first time, it will automatically download the necessary pre-trained model (u2net.onnx). If the model is not downloaded, you can manually download it from here and place it in the directory:
    ```bash
-~/.u2net/
+    ~/.u2net/
    ```
 
 ## Usage
